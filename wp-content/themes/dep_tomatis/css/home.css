@@ -1,0 +1,246 @@
+@font-face {
+font-family: "Montserrat-bold";
+src: url("https://edificiouno83.com/wp-content/themes/dep_tomatis/fonts/Montserrat-Bold.otf") format("truetype");
+ }
+
+ @font-face {
+     font-family: 'the-real-magazine-2regular';
+     src: url('https://edificiouno83.com/wp-content/themes/dep_tomatis/fonts/the_real_magazine_2-webfont.woff2') format('woff2'),
+          url('https://edificiouno83.com/wp-content/themes/dep_tomatis/fonts/the_real_magazine_2-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+
+ }
+ .text-slider{
+   padding: 12% 0;
+   font-family: the-real-magazine-2regular;
+   text-align: center;
+ }
+ .text-big h1{
+   font-size: 10rem;
+   color: #fff;
+ }
+
+ .oferta span{
+   color: #fff;
+   background-color:  #ff5e9b;
+   padding: 5px;
+   font-size: 3.5rem;
+   text-transform: uppercase;
+ }
+ .text-slider img{
+   text-align: center;
+ }
+ .text-big span{
+   color:#fdc751;
+ }
+ .text-rosa span{
+   color: #ff5e9b;
+ }
+
+.form-gral{
+  margin-top: -20px;
+	text-align:center;
+	background-color:#fdc751;
+	padding:20px;
+}
+
+.formulario-contacto h3{
+  font-family: the_real_magazine_2regular;
+}
+.publico{
+  padding: 1.5rem 0;
+  text-align: center;
+
+}
+.publico u{
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #37277d;
+  font-family: Montserrat-bold;
+}
+.renders{
+  background-color: #37277d;
+}
+.ubicacion{
+  background-color: #ff5e9b;
+}
+.info-ubicacion h2{
+  text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 10%;
+    color: #37277d;
+}
+.sala-negocios{
+  text-align: center;
+}
+.sala-negocios h2{
+  color:#fff;
+  padding: inherit;
+}
+.bl-redes{
+  display: inline-grid;
+  padding-bottom: 15%;
+}
+.wa h2{
+  color: #37277d;
+  padding: inherit;
+}
+.wa{
+  display: inline-flex;
+}
+.redes{
+  color: #37277d;
+  font-family: Montserrat-bold;
+}
+.logo{
+  padding-top: 3%;
+}
+
+.plano{
+  padding: 5%;
+}
+.slide-general{
+  background-size: cover;
+}
+
+.text-general-s{
+  padding: 15% 0;
+  text-align: center;
+
+}
+.text-general-s h2{
+  font-size: 4.5rem;
+}
+.text-general-s span{
+  font-size: 4.5rem;
+}
+.text-s1{
+  color: #37277d;
+  font-family: the-real-magazine-2regular;
+}
+.text-s1 span{
+  color:#ff5e9b;
+  font-family: Montserrat-bold;
+}
+.text-s2{
+  color: #fff;
+  font-family: Montserrat-bold;
+}
+.text-s2 span{
+  color: #ff5e9b;
+  font-family: the-real-magazine-2regular;
+}
+.text-s3{
+  color: #fff;
+  font-family: Montserrat-bold;
+}
+.text-s3 span{
+  color:#37277d;
+  font-family: the-real-magazine-2regular;
+}
+.text-s4{
+  color: #ff5e9b;
+  font-family: Montserrat-bold;
+}
+.text-s4 span{
+  color:#37277d;
+  font-family: the-real-magazine-2regular;
+}
+.text-s5{
+  color: #fff;
+  font-family: Montserrat-bold;
+}
+.text-s5 span{
+  color: #ff5e9b;
+  font-family: the-real-magazine-2regular;
+}
+.text-s6{
+  color: #fff;
+  font-family: Montserrat-bold;
+}
+.text-s6 span{
+  color:#37277d;
+  font-family: the-real-magazine-2regular;
+}
+.text-s7{
+  color: #fff;
+  font-family: Montserrat-bold;
+}
+.text-s7 span{
+  color: #ff5e9b;
+  font-family: the-real-magazine-2regular;
+}
+
+.wpcf7 form input[type=date], .wpcf7 form input[type=email], .wpcf7 form input[type=number], .wpcf7 form input[type=tel], .wpcf7 form input[type=text]{
+  width: 100%;
+    height: auto;
+    padding: 1rem 2.2rem;
+}
+.form-control{
+  font-size: 14px;
+  line-height: 1.428571;
+}
+.formulario-contacto{
+	
+}
+.formulario-contacto h3{
+  color: #fff;
+  font-family: Montserrat-bold;
+}
+.formulario-contacto span{
+  color: #37277d;
+  font-family: the-real-magazine-2regular;
+}
+.wpcf7-submit{
+  background-color: #37277d;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Montserrat-bold;
+  margin: 15px;
+	margin-bottom:45px;
+}
+.boton-enviar{
+  margin: 10px;
+
+}
+
+.info-renders{
+  padding: 10% 3% 10% 3%;
+}
+.slick-dots{
+  width: 80%;
+}
+
+@media (max-width: 767px) {
+  .text-big h1{
+    font-size: 5rem;
+    color: #fff;
+  }
+  .info-renders{
+    padding: 10% 5% 10% 5%;
+  }
+ }
+
+#slider-estilos{
+  margin-bottom: -36px;
+}
+.chatwa a{
+	display: flex;
+}
+.chatwa h4{
+	background-color: #fff;
+
+padding: 10px;
+
+border-radius: 10px;
+
+font-weight: bold;
+	
+	margin-top:30px;
+}
+
+.whatsapp-movil img{
+	margin-top:20px;
+}
